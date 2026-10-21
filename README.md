@@ -1,182 +1,290 @@
 <div align="center">
 
-# 👋 Hey there, I'm Kaushal Prasad Yadav!
-
-### 💻 Aspiring Data Scientist | Machine Learning Enthusiast | Python Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Exploring+Data+Science+%F0%9F%93%8A;Learning+Machine+Learning+%F0%9F%A4%96;Building+Projects+with+Python+%F0%9F%90%8D;Turning+Data+into+Insights+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00c9ff&height=220&section=header&text=KAUSHAL%20PRASAD%20YADAV&fontSize=35&fontColor=ffffff&fontAlignY=38&desc=CODE%20%E2%80%A2%20LEARN%20%E2%80%A2%20INNOVATE&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Profile Banner"/>
 
 <br>
 
 <a href="https://github.com/kaushal274">
-  <img src="https://komarev.com/ghpvc/?username=kaushal274&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views">
-</a>
-<a href="https://github.com/kaushal274?tab=followers">
-  <img src="https://img.shields.io/github/followers/kaushal274?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers">
-</a>
-
-</div>
-
----
-
-## 🚀 About Me
-
-🎓 I'm a **B.Tech Computer Science Engineering student** passionate about technology, programming, and data-driven solutions.
-
-* 🐍 Learning and developing projects using **Python**.
-* 📊 Exploring **Data Science, Data Analysis, and Data Visualization**.
-* 🤖 Building my foundation in **Machine Learning**.
-* 🧹 Practicing data preprocessing and feature engineering.
-* 💡 Improving my problem-solving and programming skills.
-* 🌱 Always curious to learn new technologies and build practical projects.
-
-> 💭 *"Learning every day, building step by step, and turning ideas into reality."*
-
----
-
-## 🛠️ Tech Stack & Skills
-
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css" alt="Programming Skills"/>
-</p>
-
-### 📊 Data Science & Machine Learning
-
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-</p>
-
-### ⚙️ Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,mysql" alt="Tools"/>
-</p>
-
----
-
-## 📚 Currently Learning
-
-```python
-my_learning_journey = {
-    "Programming": ["Python", "C++"],
-    "Data_Analysis": ["NumPy", "Pandas", "Matplotlib"],
-    "Machine_Learning": [
-        "Data Preprocessing",
-        "One-Hot Encoding",
-        "Ordinal Encoding",
-        "Feature Engineering",
-        "ML Algorithms"
-    ],
-    "Tools": ["VS Code", "Git", "GitHub", "Jupyter Notebook"],
-    "Goal": "Become a skilled Data Scientist"
-}
-
-for topic, skills in my_learning_journey.items():
-    print(f"{topic}: {skills}")
-```
-
----
-
-## 🌟 Featured Projects
-
-Here are some areas I'm exploring through hands-on projects.
-
-### 📊 1. One-Hot Encoding
-
-Converting categorical features into numerical representations using Python and Pandas.
-
-**Tech:** Python · Pandas · Machine Learning
-
-### 🔢 2. Ordinal Encoding
-
-Transforming ordered categorical data into numerical values for machine learning applications.
-
-**Tech:** Python · Pandas · Scikit-learn
-
-### 🏫 3. School Management System
-
-A desktop application project designed to manage school-related information using Python and Qt Designer.
-
-**Tech:** Python · Qt Designer
-
-### ☕ 4. Coffee Shop Website
-
-A responsive frontend website built to practice HTML and CSS styling.
-
-**Tech:** HTML · CSS
-
-<div align="center">
-
-➡️ **Explore all my projects:**
-[![GitHub Repositories](https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/kaushal274?tab=repositories)
-
-</div>
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/kaushal274">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=kaushal274&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Kaushal's GitHub Stats"/>
-</a>
-
-<a href="https://github.com/kaushal274">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushal274&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=Hey+There!+I'm+Kaushal+%F0%9F%91%8B;Aspiring+Data+Scientist+%F0%9F%93%8A;Machine+Learning+Enthusiast+%F0%9F%A4%96;Python+Developer+%F0%9F%90%8D;Turning+Data+Into+Insights+%E2%9C%A8" alt="Typing Animation"/>
 </a>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=kaushal274&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+<a href="https://github.com/kaushal274?tab=followers">
+<img src="https://img.shields.io/github/followers/kaushal274?style=for-the-badge&logo=github&label=FOLLOWERS&color=00c9ff" alt="Followers"/>
+</a>
+<a href="https://github.com/kaushal274?tab=repositories">
+<img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-7C3AED?style=for-the-badge&logo=github" alt="Repositories"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=kaushal274&style=for-the-badge&color=00c9ff&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+<br><br>
+
+### 💫 *Welcome to my digital space!*
+
+*Where curiosity meets code, and ideas become reality.*
 
 </div>
 
 ---
 
-## 🎯 My Goals
+## 🧑‍💻 `whoami`
 
-* [x] Start learning Python.
-* [x] Explore data preprocessing techniques.
-* [ ] Strengthen my Machine Learning fundamentals.
-* [ ] Build more real-world Data Science projects.
-* [ ] Improve my problem-solving skills.
-* [ ] Develop a strong technical portfolio.
+<img align="right" alt="Coding Animation" width="290" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+
+Hey! I'm **Kaushal Prasad Yadav**, a B.Tech Computer Science Engineering student exploring the exciting world of programming, data, and intelligent systems.
+
+* 🎓 **Education:** B.Tech in Computer Science Engineering
+* 🐍 **Primary Language:** Python
+* 📊 **Interests:** Data Science & Data Analysis
+* 🤖 **Exploring:** Machine Learning & AI
+* 🧠 **Currently Learning:** Data preprocessing and feature engineering
+* 🚀 **Mission:** Building practical projects and growing as a developer
+* 💡 **Mindset:** Learn something new every day!
+
+<br clear="right"/>
+
+> 💭 *"Great things are built one line of code at a time."*
 
 ---
 
-## 🤝 Let's Connect!
+## ⚡ TECH ARSENAL
 
-I'm always interested in learning, collaborating, and connecting with fellow developers and technology enthusiasts.
+<div align="center">
+
+### 💻 Programming & Web
+
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css" alt="Programming Languages"/>
+
+### 📊 Data Science & Machine Learning
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=blue" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+
+### 🛠️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,mysql" alt="Development Tools"/>
+
+</div>
+
+---
+
+## 🧠 MY LEARNING JOURNEY
+
+```python
+class Kaushal:
+    def __init__(self):
+        self.name = "Kaushal Prasad Yadav"
+        self.role = "Aspiring Data Scientist"
+        self.languages = ["Python", "C++", "HTML", "CSS"]
+        self.interests = [
+            "Data Science",
+            "Machine Learning",
+            "Data Visualization"
+        ]
+        self.current_focus = [
+            "Pandas & NumPy",
+            "Data Preprocessing",
+            "Feature Engineering",
+            "Machine Learning Fundamentals"
+        ]
+
+    def ambition(self):
+        return "Build useful projects and never stop learning!"
+
+me = Kaushal()
+print(me.ambition())
+```
+
+---
+
+## 🚀 PROJECT SHOWCASE
+
+<div align="center">
+
+### 💎 Turning Knowledge Into Projects
+
+*Every project is another step toward mastering technology.*
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 One-Hot Encoding
+
+<img src="https://img.shields.io/badge/Machine_Learning-Feature_Encoding-00C9FF?style=flat-square" alt="Feature Encoding"/>
+
+Convert categorical variables into binary numerical features using Python and Pandas.
+
+**Key Concepts**
+
+* Categorical data
+* Binary feature representation
+* Data preprocessing
+
+**Stack:** Python · Pandas
+
+</td>
+<td width="50%" valign="top">
+
+### 🔢 Ordinal Encoding
+
+<img src="https://img.shields.io/badge/Data_Science-Feature_Engineering-A78BFA?style=flat-square" alt="Feature Engineering"/>
+
+Transform ordered categories into meaningful numerical values for machine learning.
+
+**Key Concepts**
+
+* Ordered categories
+* OrdinalEncoder
+* Feature transformation
+
+**Stack:** Python · Pandas · Scikit-learn
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏫 School Management System
+
+<img src="https://img.shields.io/badge/Python-Desktop_Application-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Desktop App"/>
+
+A desktop application project designed to manage school-related information through a graphical interface.
+
+**Key Concepts**
+
+* GUI development
+* Application design
+* User interaction
+
+**Stack:** Python · Qt Designer
+
+</td>
+<td width="50%" valign="top">
+
+### ☕ Coffee Shop Website
+
+<img src="https://img.shields.io/badge/Web_Development-Frontend-FF8C42?style=flat-square" alt="Frontend Development"/>
+
+A coffee shop website built to practice website layouts, styling, and visual design.
+
+**Key Concepts**
+
+* HTML structure
+* CSS styling
+* Hover effects and animations
+
+**Stack:** HTML · CSS
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/kaushal274?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-00C9FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore Projects"/>
+</a>
+
+</div>
+
+---
+
+## 📈 GITHUB PERFORMANCE
 
 <div align="center">
 
 <a href="https://github.com/kaushal274">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=kaushal274&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Statistics"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://github.com/kaushal274">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushal274&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 </a>
+
+<br><br>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=kaushal274&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaushal274&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph"/>
 
 </div>
 
-*Replace the LinkedIn link above with your personal profile URL.*
+---
+
+## 🎯 CURRENT OBJECTIVES
+
+<div align="center">
+
+| Status | Goal                                     |
+| :----: | ---------------------------------------- |
+|    ✅   | Build a strong foundation in Python      |
+|   🔄   | Practice data preprocessing techniques   |
+|   🔄   | Learn feature engineering                |
+|   🎯   | Master core Machine Learning algorithms  |
+|   🎯   | Develop real-world Data Science projects |
+|   🚀   | Build a professional technical portfolio |
+
+</div>
+
+---
+
+## 🌱 MY DEVELOPER PHILOSOPHY
+
+<div align="center">
+
+|        🧠 LEARN       |         🛠️ BUILD        |      📈 IMPROVE     |
+| :-------------------: | :----------------------: | :-----------------: |
+|  Explore new concepts | Turn ideas into projects | Learn from mistakes |
+| Understand the basics |   Practice consistently  | Keep moving forward |
+
+<br>
+
+**Progress over perfection. Consistency over excuses. Curiosity over fear.**
+
+</div>
+
+---
+
+## 🤝 LET'S CONNECT
+
+<div align="center">
+
+I'm always happy to connect with fellow students, developers, and technology enthusiasts!
+
+<a href="https://github.com/kaushal274">
+<img src="https://img.shields.io/badge/GitHub-Follow_My_Journey-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+
+<br><br>
+
+*Replace the LinkedIn link with your personal profile URL.*
+
+</div>
 
 ---
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="Footer Banner"/>
+
 ### 💙 Thanks for visiting my profile!
 
-**Keep Learning. Keep Building. Keep Growing. 🚀**
+**⭐ Explore my repositories • Follow my journey • Let's grow together!**
 
-⭐ *If you find my projects interesting, feel free to explore my repositories and follow my journey!*
+<sub>Made with ❤️ by Kaushal Prasad Yadav</sub>
 
 </div>
+
 
