@@ -143,7 +143,7 @@ I'm always happy to connect with fellow students, developers, and technology ent
 <img src="https://img.shields.io/badge/GitHub-Follow_My_Journey-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/kaushal-prasad-yadav-7283a1327?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=kaushal274&style=for-the-badge&color=00c9ff&label=PROFILE+VIEWS" alt="Profile Views"/>
@@ -154,7 +154,7 @@ I'm always happy to connect with fellow students, developers, and technology ent
 
 <br><br>
 
-*Replace the LinkedIn link with your personal profile URL.*
+
 
 </div>
 
