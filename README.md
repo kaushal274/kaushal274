@@ -16,10 +16,6 @@
 <a href="https://github.com/kaushal274?tab=repositories">
 <img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-7C3AED?style=for-the-badge&logo=github" alt="Repositories"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=kaushal274&style=for-the-badge&color=00c9ff&label=PROFILE+VIEWS" alt="Profile Views"/>
-<a href="https://www.instagram.com/_kaushal_yadav04?mdxt=bGtxaXZqOWNpZHdw" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
 
 <br><br>
 
@@ -150,6 +146,11 @@ I'm always happy to connect with fellow students, developers, and technology ent
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
+<img src="https://komarev.com/ghpvc/?username=kaushal274&style=for-the-badge&color=00c9ff&label=PROFILE+VIEWS" alt="Profile Views"/>
+<a href="https://www.instagram.com/_kaushal_yadav04?mdxt=bGtxaXZqOWNpZHdw" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
 
 <br><br>
 
