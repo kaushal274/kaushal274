@@ -17,6 +17,9 @@
 <img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-7C3AED?style=for-the-badge&logo=github" alt="Repositories"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=kaushal274&style=for-the-badge&color=00c9ff&label=PROFILE+VIEWS" alt="Profile Views"/>
+<a href="https://www.instagram.com/_kaushal_yadav04?mdxt=bGtxaXZqOWNpZHdw" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
 
 <br><br>
 
@@ -32,7 +35,7 @@
 
 <img align="right" alt="Coding Animation" width="290" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
-Hey! I'm **Kaushal Prasad Yadav**, a B.Tech Computer Science Engineering student exploring the exciting world of programming, data, and intelligent systems.
+Hey! I'm **Kaushal Prasad Yadav**, a CSE(DataScience) student exploring the exciting world of programming, data, and intelligent systems.
 
 * 🎓 **Education:** B.Tech in Computer Science Engineering
 * 🐍 **Primary Language:** Python
@@ -97,125 +100,6 @@ class Kaushal:
 me = Kaushal()
 print(me.ambition())
 ```
-
----
-
-## 🚀 PROJECT SHOWCASE
-
-<div align="center">
-
-### 💎 Turning Knowledge Into Projects
-
-*Every project is another step toward mastering technology.*
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 One-Hot Encoding
-
-<img src="https://img.shields.io/badge/Machine_Learning-Feature_Encoding-00C9FF?style=flat-square" alt="Feature Encoding"/>
-
-Convert categorical variables into binary numerical features using Python and Pandas.
-
-**Key Concepts**
-
-* Categorical data
-* Binary feature representation
-* Data preprocessing
-
-**Stack:** Python · Pandas
-
-</td>
-<td width="50%" valign="top">
-
-### 🔢 Ordinal Encoding
-
-<img src="https://img.shields.io/badge/Data_Science-Feature_Engineering-A78BFA?style=flat-square" alt="Feature Engineering"/>
-
-Transform ordered categories into meaningful numerical values for machine learning.
-
-**Key Concepts**
-
-* Ordered categories
-* OrdinalEncoder
-* Feature transformation
-
-**Stack:** Python · Pandas · Scikit-learn
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏫 School Management System
-
-<img src="https://img.shields.io/badge/Python-Desktop_Application-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Desktop App"/>
-
-A desktop application project designed to manage school-related information through a graphical interface.
-
-**Key Concepts**
-
-* GUI development
-* Application design
-* User interaction
-
-**Stack:** Python · Qt Designer
-
-</td>
-<td width="50%" valign="top">
-
-### ☕ Coffee Shop Website
-
-<img src="https://img.shields.io/badge/Web_Development-Frontend-FF8C42?style=flat-square" alt="Frontend Development"/>
-
-A coffee shop website built to practice website layouts, styling, and visual design.
-
-**Key Concepts**
-
-* HTML structure
-* CSS styling
-* Hover effects and animations
-
-**Stack:** HTML · CSS
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<a href="https://github.com/kaushal274?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-00C9FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore Projects"/>
-</a>
-
-</div>
-
----
-
-## 📈 GITHUB PERFORMANCE
-
-<div align="center">
-
-<a href="https://github.com/kaushal274">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=kaushal274&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Statistics"/>
-</a>
-
-<a href="https://github.com/kaushal274">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushal274&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-</a>
-
-<br><br>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=kaushal274&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaushal274&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph"/>
-
-</div>
 
 ---
 
