@@ -33,7 +33,7 @@
 
 Hey! I'm **Kaushal Prasad Yadav**, a CSE(DataScience) student exploring the exciting world of programming, data, and intelligent systems.
 
-* 🎓 **Education:** B.Tech in Computer Science Engineering
+* 🎓 **Education:** B.Tech in Computer Science Engineering(Data-Science)
 * 🐍 **Primary Language:** Python
 * 📊 **Interests:** Data Science & Data Analysis
 * 🤖 **Exploring:** Machine Learning & AI
